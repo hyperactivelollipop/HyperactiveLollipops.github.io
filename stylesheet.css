@@ -1,0 +1,44 @@
+/*
+selector (
+propertey value
+)
+*/
+
+em{
+  font-style:italic;
+
+}
+#allcontent{
+  margin-left:auto:
+  margin-right:auto:
+}-
+ padding:15px;
+ margin:10px;
+ width:150px;
+ float:left;
+}
+
+#right{
+padding:15px;
+ margin:10px;
+ width:150px;
+ float:right
+}
+
+#middle{
+width:150px;
+margin:0px 10px 10px 200px
+}
+body {
+  color:DarkBlue;
+  background-color:MediumSpringGreen;
+  font-family:Tahoma;
+}
+
+h2 {
+ color:Fuchsia;
+}
+  
+ .song{
+ color:orange;
+   }
