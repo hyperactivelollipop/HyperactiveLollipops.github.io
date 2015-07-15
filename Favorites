@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<header> <b> <h2>Music and Dolphins<h2> </b> </header>
+<br> 
+  <title>Favorites</title> 
+  <link type="text/CSS" rel="stylesheet" href= "Style Sheet (CSSP).css">
+  <script  type="javascript"src= "script.js">
+ </script> 
+</head>
+<body>
+<p id="abc">Javascript can change HTML text.</p>
+
+<img id="myImage" onclick= "changeImage()" src="buulb_off.jpg" width="100px" height="160px">
+
+<button onclick="document.getElementById
+('abc').innerHTML = 'BOO I SCARED YOU! IM GONNA COME IN YOUR NIGHTMARES!!! MWAHAHAHAHAHAHAHAHA P.S. I TOLD YOU NOT TO CLICK THE BUTTON!' " >DONT CLICK ME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</button>
+<div id="allcontent" >
+<table border="5px">
+    <thead>
+      <th colspan="2" id="DeepPink">Favorites</th>
+    </thead>
+    <tbody>
+	  <tr>
+        <td>Selena Gomez</td>
+        <td> <a href="https://www.youtube.com/watch?v=Wp0hWIO8DiU"><em>Good for You</em></a> </td>
+      </tr>
+       <tr>
+         <td> Lorde</td>
+	      <td> <a href="https://www.youtube.com/watch?v=nkZP5jgdCFY"><em>Royals</em><a/> </td>
+       </tr>
+      </tbody>  
+ </table>
+ <h2> Songs I like</h2>
+ <ul>
+ <li> Centuries </li>
+ <li> Immortals </li>
+ <li> Uma Thurman</li>
+ <li> Team</li>
+ <li>Wonderland</li>
+ <li>I Know Places</li>
+ <li>Stiches</li>
+ <h2> Artists/ Bands I like </h2>
+ <li> Fall Out Boy</li>
+ <li> Lorde</li>
+ <li>Taylor Swift</li>
+ <li>Shawn Mendes</li>
+ <li>Sia</li>
+ <p>
+ <div id="left">
+ <h2> Dolphins</h2>
+ <br>
+ <blockquote> Dolphins are cetacean mammals closely related to whales and porpoises.There are almost forty species of dolphin in 17 genera. They vary in size from 1.2 meters (4 ft) and 40 kg (90 lb) (Maui's dolphin), up to 9.5 meters (30 ft) and 10 tonnes (9.8 long tons; 11 short tons) (the orca or killer whale). They are found worldwide, mostly in the shallower seas of the continental shelves and are carnivores, eating mostly fish and squid. The family Delphinidae, the largest in the order Cetacea, evolved relatively recently, about ten million years ago during the Miocene. </p>
+<br> </br>
+
+<b> To see more dolphins, login with your email at the bottom: </b>
+ </div>
+ </p>
+ 
+ </ul>
+ </div>
+<form method="GET"> 
+<b>Username:<input type="text" name="username">
+ <b>Password:<input type="password" name="password">
+ <br>
+ <input type="submit" value="Submit"/>
+&#169</form>
+
+
+</body>
+ </html>
